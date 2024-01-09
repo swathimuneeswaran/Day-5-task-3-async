@@ -1,0 +1,24 @@
+img{
+    margin-left:300px;
+    margin-top:100px;
+    border:4px groove violet;
+    box-shadow:10px 10px skyblue
+}
+
+button{
+    position: absolute;
+    top:280px;
+    left:600px;
+    /* width:100px;
+    height:30px; */
+   
+}
+
+button:hover{
+    background-image:linear-gradient(pink,orange,skyblue);
+    text-decoration:2px black underline
+}
+
+h2{
+    margin-left:400px;
+}
